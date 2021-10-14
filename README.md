@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcio Feitas
-- 👀 I’m interested in Javascript, p5.js, three.js, frontend development
-- 🌱 I’m currently learning Javascript and three.js
+- 👀 I’m interested in Javascript, fullstack development, react, next.js
+- 🌱 I’m currently learning next.js
 
 <!---
 marciofreitas71/marciofreitas71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
